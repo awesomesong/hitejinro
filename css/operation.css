@@ -44,7 +44,7 @@
 
     /* 배경화면 다르게 들어가는 부분 */
     .tab1_info1 {background: url("../images/operation_img_beer_1.jpg") no-repeat center right;}
-    .tab1_info2 {background: url("../images/operation_p_beer_date.jpg") no-repeat bottom right;}
+    .tab1_info2 {background: url("../images/operation_p_beer_date.jpg") no-repeat center right;}
 
 #tab2{display:none; overflow:hidden; width:100%; height:820px; padding-bottom:90px;}
     .tab2_info {float:left; width:50%; height:100%;}
